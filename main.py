@@ -5,7 +5,7 @@ import PIL
 from discord.ext import commands
 from PIL import Image, ImageDraw, ImageFont
 
-TOKEN = 'NzQ5ODkxMTg1ODY2MzA5NjYy.X0yklw.ol1hQfz6_KfPE-FSndHswcvt-Mc'
+TOKEN = 'X'
 client = commands.Bot(command_prefix="bhaiya ")
 
 
